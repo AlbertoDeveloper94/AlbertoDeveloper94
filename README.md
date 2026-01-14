@@ -1,16 +1,48 @@
-## Hi there 👋
+<p align="center">
+  <img src="./bannerGithubProfile.png" alt="Banner estilo videojuego" style="width:500">
+</p>
 
-<!--
-**AlbertoDeveloper94/AlbertoDeveloper94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🎮 Player
+- 💻 Hi, I'm Alberto Garcia Poncet and I'm a student of Web Development Bootcamp **Factoria F5**.
+    
+- 🏠 I am living in Barcelona, Spain.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🦹 About Me
+Student of web development at **Factoria F5 Bootcamp**.  
+
+Always striving to learn and improve my coding skills.
+
+Looking for new ways of doing things with creativity.
+
+
+## ⭐ Current Stack
+
+### 💻 FrontEnd
+- HTML: 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 (100% - Expert)
+- CSS: 🟩🟩🟩🟩🟩🟩🟩🟩🟥🟥 (80% - Advanced)
+- JS: 🟩🟩🟩🟩🟩🟥🟥🟥🟥🟥 (50% - Medium)
+- React: 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥(Learning in progress)
+
+### 🧰 Tools
+- Git/Github: 🟩🟩🟩🟩🟩🟩🟩🟩🟥🟥 (80% - Advanced)
+- VsCode: 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩(100% - Expert)
+- Github Project: 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟥 (90% - Advanced)
+
+##  Contact Me
+- ✉️ Mail: bettogp94@gmail.com
+- 📞 Phone: 696618615
+- 🫂 Linkedin:  [Alberto Garcia Poncet](https://www.linkedin.com/in/albertogarciaponcet/)
+
+## Github Stats
+
+![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlbertoDeveloper94&theme=tokyonight)
+
+![Github Top Languages By Commit](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlbertoDeveloper94&theme=tokyonight)
+
+![Github Top Languages By Repo](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlbertoDeveloper94&theme=tokyonight)
+
+
+
+
+
