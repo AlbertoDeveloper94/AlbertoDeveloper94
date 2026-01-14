@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./bannerGithubProfile.png" alt="Banner estilo videojuego" style="width:500">
+  <img src="./bannerGithubProfile.jpg" alt="Banner estilo videojuego" style="width:500">
 </p>
 
 # 🎮 Player
